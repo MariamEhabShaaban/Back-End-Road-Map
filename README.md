@@ -240,16 +240,7 @@
 <tbody>
 
 
-<table>
-<thead>
-<tr>
-<th>Step</th>
-<th>Content</th>
-<th>Resources</th>
-<th>Timeline</th>
-</tr>
-</thead>
-<tbody>
+
 <tr>
 <td>Step 1</td>
 <td>Advanced Laravel - Multi Vendor Store</td>
