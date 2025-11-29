@@ -158,6 +158,11 @@
 
 ---
 
+
+<a href="https://www.youtube.com/playlist?list=PLVMqeUndPM9-ydOUDMGP9bUhaMTt_728Y" target="_blank">First of all, you can explore the backend concepts you'll encounter throughout your learning journey.</a>
+
+
+
 ## Intermediate
 
 ### MVC (Updated)
